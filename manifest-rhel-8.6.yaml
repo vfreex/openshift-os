@@ -181,6 +181,7 @@ repo-packages:
       - skopeo
       - slirp4netns
       - toolbox
+      - kernel-rt
 
 modules:
   enable:
