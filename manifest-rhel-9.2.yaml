@@ -130,3 +130,4 @@ repo-packages:
       - openshift-hyperkube
       # Use legacy coreos/toolbox until we're ready to use containers/toolbox
       - toolbox
+      - skopeo  # Force the version from the OCP repo
